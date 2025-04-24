@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.fortuna.venteny",
+      "sha256_cert_fingerprints": [
+        "30:B5:A9:B6:4B:DD:39:8C:88:36:8A:7B:94:6B:BB:B5:43:82:FB:FC:F6:EE:89:61:2A:6E:8B:9F:80:2D:FE:9A"
+      ]
+    }
+  }
+]
